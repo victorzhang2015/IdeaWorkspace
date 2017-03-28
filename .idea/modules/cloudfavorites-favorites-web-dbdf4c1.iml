@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="cloudfavorites-favorites-web-dbdf4c1" external.linked.project.path="F:/cloudfavorites-favorites-web-dbdf4c1" external.root.project.path="F:/cloudfavorites-favorites-web-dbdf4c1" external.system.id="GRADLE" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="false">
+    <output url="file://$MODULE_DIR$/../../out/production/cloudfavorites-favorites-web-dbdf4c1" />
+    <output-test url="file://$MODULE_DIR$/../../out/test/cloudfavorites-favorites-web-dbdf4c1" />
+    <exclude-output />
+    <content url="file://F:/cloudfavorites-favorites-web-dbdf4c1" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
